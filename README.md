@@ -1,1 +1,13 @@
 # FEDev---assessment-samples-and-walkthroughs
+
+Here are notes to me working through the stages for the sample Practical 1 assessment:
+- Stage 0 & 1:
+  - https://github.com/dr-matt-smith/FEDev-practical-sample-stage-1
+- Stage 2:
+- Stage 3:
+- Stage 4:
+- Stage 5:
+- Stage 6:
+  - (coming soon)
+
+ 
