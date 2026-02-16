@@ -6,6 +6,7 @@ Here are notes to me working through the stages for the sample Practical 1 asses
 - Stage 0 & 1:
   - https://github.com/dr-matt-smith/FEDev-practical-sample-stage-1
 - Stage 2:
+  - https://github.com/dr-matt-smith/FEDev-practical-sample-stage-2
 - Stage 3:
 - Stage 4:
 - Stage 5:
