@@ -23,6 +23,8 @@ Here are notes to me working through the stages for the sample Practical 1 asses
 Here is the Squid Game SveletKLit website for us in your Practical 2 assessment:
 - https://github.com/dr-matt-smith/FEDev---squid-game-Sveltkit-wbesite
 
+Guide to installing and using OpenCode:
+- https://github.com/dr-matt-smith/FEDev---Gen-AI-coding
 
 ## Individual project
 
