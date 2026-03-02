@@ -20,7 +20,9 @@ Here are notes to me working through the stages for the sample Practical 1 asses
 
 ## Practical 2
 
-(coming soon)
+Here is the Squid Game SveletKLit website for us in your Practical 2 assessment:
+- https://github.com/dr-matt-smith/FEDev---squid-game-Sveltkit-wbesite
+
 
 ## Individual project
 
