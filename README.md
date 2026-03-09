@@ -35,7 +35,10 @@ Guide to installing and using OpenCode:
 
 ## In-class practical lab test
 
-(coming soon)
+Sample In-class test:
+- https://github.com/dr-matt-smith/FEDev---sample-lab-test
+
+  
 
 
 
