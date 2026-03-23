@@ -31,10 +31,10 @@ Guide to installing and using OpenCode:
 
 ## Individual project
 
-(draft)
-- this is the current draft of a Svelte(Kit) project with login authentication features already implemented
+here is link to a start Svelte(Kit) project
+- with login authentication features & a `/resetdatabase` route already implemented
 - https://github.com/dr-matt-smith/FEDev-Project-Starter
-- 
+ 
 
 ## In-class practical lab test
 
