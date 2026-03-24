@@ -18,7 +18,6 @@ Here are notes to me working through the stages for the sample Practical 1 asses
 
 For those going for 100% for this assessment, here is a page giving information about how to publish a SvelteKit project to GitHub pages:
 - https://github.com/dr-matt-smith/FEDev-introduction-to-GitHub-pages-for-SvelteKit-projects/tree/main
-- 
 
 
 ## Practical 2
