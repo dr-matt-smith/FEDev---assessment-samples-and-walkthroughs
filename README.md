@@ -28,14 +28,6 @@ Here is the Squid Game SveletKLit website for us in your Practical 2 assessment:
 Guide to installing and using OpenCode:
 - https://github.com/dr-matt-smith/FEDev---Gen-AI-coding
 
-## Individual project
-
-here is link to a start Svelte(Kit) project
-- with login authentication features & a `/resetdatabase` route already implemented
-- https://github.com/dr-matt-smith/FEDev-Project-Starter
-
-Here is a list of suggestions for project features you might add, if aiming for a high grade:
-- https://github.com/dr-matt-smith/FEDev---project-feature-ideas
 
 
 ## In-class practical lab test
@@ -50,6 +42,14 @@ Sample In-class test:
 
 
   
+## Individual project
+
+here is link to a start Svelte(Kit) project
+- with login authentication features & a `/resetdatabase` route already implemented
+- https://github.com/dr-matt-smith/FEDev-Project-Starter
+
+Here is a list of suggestions for project features you might add, if aiming for a high grade:
+- https://github.com/dr-matt-smith/FEDev---project-feature-ideas
 
 
 
